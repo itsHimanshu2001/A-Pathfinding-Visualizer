@@ -1,4 +1,4 @@
-# A-Pathfinding-Visualizer
+# A-star-Pathfinding-Visualizer
 
 ## Prerequisites 
 1. pygame
